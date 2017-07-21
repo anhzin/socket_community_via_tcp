@@ -1,0 +1,5 @@
+D:\Demo\SocketCommunicationViaTCP\TCPServer\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Demo\SocketCommunicationViaTCP\TCPServer\TCPClient\bin\Debug\TCPClient.exe
+D:\Demo\SocketCommunicationViaTCP\TCPServer\TCPClient\bin\Debug\TCPClient.pdb
+D:\Demo\SocketCommunicationViaTCP\TCPServer\TCPClient\obj\Debug\TCPClient.exe
+D:\Demo\SocketCommunicationViaTCP\TCPServer\TCPClient\obj\Debug\TCPClient.pdb
